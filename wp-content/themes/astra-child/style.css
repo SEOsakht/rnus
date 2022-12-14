@@ -9,8 +9,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: seosakht
 Template: astra
 */
-@font-face{font-family:VZ;font-style:normal;font-weight:normal;src:url("https://seosakht.s3.ir-thr-at1.arvanstorage.com/mr.woff2") format("woff2");font-display:swap}
-@font-face{font-family:VZ;font-style:normal;font-weight:bold;src:url("https://seosakht.s3.ir-thr-at1.arvanstorage.com/mb.woff2") format("woff2");font-display:swap}
+@font-face{font-family:VZ;font-style:normal;font-weight:normal;src:url("https://rnus.ir/wp-content/uploads/mr.woff2") format("woff2");font-display:swap}
+@font-face{font-family:VZ;font-style:normal;font-weight:bold;src:url("https://rnus.ir/wp-content/uploads/mb.woff2") format("woff2");font-display:swap}
 body,button{font-family:VZ,sans-serif}
 .wp-block-cover p{margin-bottom:0}
 @media (min-width:1200px){
